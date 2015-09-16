@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 勝思惟梵天所問經論
+#+DATE: 2015-08-30 20:23:19.751535
+#+PROPERTY: JUAN 0
