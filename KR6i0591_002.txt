@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:23:19.417311
+#+DATE: 2015-08-30 20:23:21.306941
 #+TITLE: 勝思惟梵天所問經論
 #+PROPERTY: CBETA_ID T26n1532
 #+PROPERTY: ID KR6i0591
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 26, No. 1532
 #+PROPERTY: VOL 26
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6i0591_T_000-0337a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0591_T_002-0342a> 
 #+PROPERTY: JUAN 2
 ¶
-
- 《勝思惟梵天所問經論》卷第二¶
+《勝思惟梵天所問經論》卷第二¶
 ¶
 天親菩薩造¶
 後魏北印度三藏菩提流支譯¶
@@ -206,8 +205,7 @@
 者根本。¶
 
 所言依者。謂依大乘。以依彼乘此中正問故。¶
-所言體者。邪問為體。彼體有三種。謂外道¶
-聲聞始發心菩薩。¶
+所言體者。邪問為體。彼體有三種。謂外道聲聞始發心菩薩。¶
 
 言依止者。有三種無智。謂麁中微彼三種¶
 闇。謂外道等次第應知。應云何知。外道之人¶

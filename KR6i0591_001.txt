@@ -1,20 +1,19 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:23:19.388287
+#+DATE: 2015-08-30 20:23:21.279142
 #+TITLE: 勝思惟梵天所問經論
 #+PROPERTY: CBETA_ID T26n1532
 #+PROPERTY: ID KR6i0591
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 26, No. 1532
 #+PROPERTY: VOL 26
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6i0591_T_000-0337a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0591_T_001-0337a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1532¶
-
- 《勝思惟梵天所問經論》卷第一¶
+No. 1532¶
+《勝思惟梵天所問經論》卷第一¶
 ¶
 天親菩薩造¶
 後魏北印度三藏菩提流支譯¶
